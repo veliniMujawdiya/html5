@@ -1,0 +1,18 @@
+<!doctype html>
+<head>
+<metadata charset ="UTF=8">
+<title>msg4u</title>
+<h1><center><mark> shaddi!</mark></center></h1>
+</head>
+<body>
+<img src ="C:\Users\user\Desktop\HTML\shaddi\s1.jpg"
+alt="happy bday"
+width="25%">
+<img src ="C:\Users\user\Desktop\HTML\shaddi\s2.jpg"
+alt="happy bday"
+width="25%">
+<img src ="C:\Users\user\Desktop\HTML\shaddi\s3.jpg"
+alt="happy bday"
+width="25%">
+</body>
+</html>
